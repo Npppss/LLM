@@ -85,7 +85,7 @@ Tambahkan file `LICENSE` (misalnya MIT) jika Anda ingin menjaga repositori ini o
 Contoh singkat (MIT):
 ```
 MIT License
-Copyright (c) YYYY Your Name
+Copyright (c) 2026 Novandra Aria Budi Raspati
 ```
 
 ---

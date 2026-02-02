@@ -22,21 +22,7 @@ Repositori "LLM" adalah kumpulan proyek dan notebook eksperimen terkait deep lea
 ---
 
 ## 🚀 Quick start
-Jika Anda sudah familiar dengan Git/GitHub, berikut langkah cepat untuk membuat repository dan push ke GitHub (sesuaikan URL remote jika perlu):
-
-```bash
-# Buat README lokal dan inisialisasi repo
-echo "# LLM" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-# Ganti URL dengan remote Anda
-git remote add origin https://github.com/Npppss/LLM.git
-git push -u origin main
-```
-
-Atau jika Anda ingin meng-clone repo:
+Jika Anda ingin meng-clone repo:
 
 ```bash
 git clone https://github.com/Npppss/LLM.git
